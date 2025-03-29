@@ -1,4 +1,4 @@
-# 🇪🇸 **Análisis de Accidentes de Tráfico en Madrid - Enero 2025** 🚗💥
+# **Análisis de Accidentes de Tráfico en Madrid - Enero 2025** 🚗💥
 
 Este proyecto explora los datos sobre los accidentes de tráfico ocurridos en la ciudad de Madrid durante enero de 2025. Utilizando datos proporcionados por el Portal de Datos Abiertos del Ayuntamiento de Madrid, se realizan análisis para comprender mejor la distribución y las características de estos accidentes.
 
