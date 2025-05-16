@@ -5,8 +5,8 @@
 Este proyecto de **Data Science** aborda un problema de **clasificación supervisada** para predecir la severidad (lesividad) de accidentes de tráfico ocurridos en Madrid.  
 La severidad se agrupa en dos categorías:  
 
-- 🔴 **GRAVE:** Accidentes que requieren asistencia sanitaria.  
-- 🟢 **LEVE:** Accidentes que no requieren asistencia sanitaria.  
+- 🔴 **GRAVES:** Accidentes que requieren asistencia sanitaria.  
+- 🟢 **LEVES:** Accidentes que no requieren asistencia sanitaria.  
 
 El objetivo es desarrollar un modelo predictivo que, a partir de variables como las condiciones meteorológicas, la hora del accidente y el consumo de alcohol y drogas, permita clasificar correctamente la severidad del accidente.
 
